@@ -1,0 +1,7 @@
+ArrayListMath - Has a number of static methods that perform mathematical operations on ArrayList, or return mathematical properties of ArrayLists.
+Graph Creator - Produces the graph for the GUI.
+GUI - The Fine Tuna GUI.
+HelpGUI - A help screen for the GUI
+Test - Run every thing from here
+TunaDataFileRead - Reads the data from the file and stores it in ArrayLists
+TunaKNNClassifier - Where the magic happens!
